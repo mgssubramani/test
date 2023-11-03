@@ -1,0 +1,10 @@
+what are the common issues we faced during the migration
+
+variable declaration 
+Path
+Recapture
+Talking from my experience, the main issue which faced after the migration is with the Recorded actions. In some cases, I had to recapture those tasks in order to make the BOT work.
+In Run Task command we have to change the path 
+
+
+The Bot Agent is a lightweight application that enables you to run bots on your local device by connecting it to Control Room.

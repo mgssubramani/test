@@ -1,0 +1,6 @@
+What is a technical design doc?
+A Technical Design Document (TDD) is written by the development team and describes the minute detail of either the entire design or specific parts of it, such as: The signature of an interface, including all data types/structures required (input data types, output data types, exceptions)
+
+What is a process design document?
+What is PDD in RPA? PDD stands for process definition document in RPA, which outlines the business process to be developed. Typically prepared by the end-user and/or business analyst, the document is then used by the developer as the basis from which to design automated solutions.
+
